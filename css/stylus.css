@@ -13,27 +13,35 @@ h6 {
     display: none;
   }
 }
-#galleryIcons {
-  margin-right: auto;
-  margin-left: auto;
-  position: color #1983c3;
-}
-.thumb img {
-  height: 150px;
-}
 .borderRadius {
   border-radius: 10%;
   display: block;
-  height: 350px;
+  height: 150px;
   margin: auto;
   margin-bottom: 2em;
   max-width: 100%;
 }
+.divider,
+h2,
+h5 {
+  font-family: Helvetica;
+}
 #doctors .img-fullwidth {
   height: 500px;
 }
+.footerContact {
+  color: #fff;
+}
+.footerContact #whiteTxt {
+  color: #fff;
+}
+#galleryIcons {
+  margin-right: auto;
+  margin-left: auto;
+  position: color #1983c3, h5;
+}
 .linkColor {
-  color: #1983c3;
+  color: #1983c3, h5;
 }
 #logoGB {
   max-width: 150px;
@@ -53,14 +61,12 @@ h6 {
   padding-right: 0px;
   padding-left: 0px;
 }
+.thumb img {
+  height: 150px;
+}
 .whatsapp {
   display: inline;
   margin-top: 1em;
   text-align: right;
   width: 100%;
-}
-.divider,
-h2,
-h5 {
-  font-family: Helvetica;
 }
