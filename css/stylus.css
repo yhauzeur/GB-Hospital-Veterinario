@@ -3,16 +3,6 @@
     display: none;
   }
 }
-#logoGB {
-  max-width: 150px;
-  width: 20%;
-}
-.whatsapp {
-  display: inline;
-  margin-top: 1em;
-  text-align: right;
-  width: 100%;
-}
 .borderRadius {
   border-radius: 10%;
   display: block;
@@ -20,4 +10,31 @@
   margin: auto;
   margin-bottom: 2em;
   max-width: 100%;
+}
+.linkColor {
+  color: #1983c3;
+}
+#logoGB {
+  max-width: 150px;
+  width: 20%;
+}
+.section-content .row {
+  padding-left: 10px;
+}
+.section-content .row .media-left,
+.section-content .row .pull-left {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.section-content .col-xs-12,
+.section-content .col-sm-6,
+.section-content .col-md-4 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.whatsapp {
+  display: inline;
+  margin-top: 1em;
+  text-align: right;
+  width: 100%;
 }
