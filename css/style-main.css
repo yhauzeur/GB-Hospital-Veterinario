@@ -145,7 +145,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 29px;
 }
 h3,
 .h3 {
@@ -6158,8 +6158,8 @@ blockquote p {
   border-color: #3681C1;
 }
 .fc-timetable-wrapper .fc-event.fc-departments-cardiology {
-  background: #00A3C8;
-  border-color: #00A3C8;
+  background: #1983c3;
+  border-color: #1983c3;
 }
 .fc-timetable-wrapper .fc-event.fc-departments-neurology {
   background: #00B9D0;

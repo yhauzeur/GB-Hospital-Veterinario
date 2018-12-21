@@ -195,8 +195,8 @@ blockquote.dark{border-right:3px solid #3c3c3c;}
 .section-title .right-side-line::before{left:0;}
 .section-title p.left-bordered{border-right:2px solid #c0c0c0;padding-right:10px;}
 .section-title p.right-bordered{border-left:2px solid #c0c0c0;padding-left:10px;}
-.section-title.title-border{padding-right:30px;border-right:2px solid #00A3C8;}
-.section-title.title-border.title-right{border-right:0;padding-right:0;padding-left:30px;text-align:left;border-left:4px solid #00A3C8;}
+.section-title.title-border{padding-right:30px;border-right:2px solid #1983c3;}
+.section-title.title-border.title-right{border-right:0;padding-right:0;padding-left:30px;text-align:left;border-left:4px solid #1983c3;}
 .section-title.icon-bg .page-title i{right:0;left:0;}
 .separator::before,.separator::after{margin:0 -100% 0 -4px;}
 .separator::after{margin:0 0 0 -100%;}
