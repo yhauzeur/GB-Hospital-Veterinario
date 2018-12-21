@@ -38,3 +38,6 @@
   text-align: right;
   width: 100%;
 }
+#doctors .img-fullwidth {
+  height: 500px;
+}
