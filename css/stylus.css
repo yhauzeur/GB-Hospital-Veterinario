@@ -17,9 +17,6 @@
   margin-bottom: 2em;
   max-width: 100%;
 }
-<<<<<<< HEAD
-.linkColor {
-=======
 .divider,
 h2,
 h5 {
@@ -40,7 +37,6 @@ h5 {
   position: color #1983c3;
 }
 #linkColor {
->>>>>>> fix
   color: #1983c3;
 }
 #logoGB {
@@ -61,23 +57,17 @@ h5 {
   padding-right: 0px;
   padding-left: 0px;
 }
-<<<<<<< HEAD
-=======
 .thumb img {
   height: 150px;
 }
->>>>>>> fix
 .whatsapp {
   display: inline;
   margin-top: 1em;
   text-align: right;
   width: 100%;
 }
-<<<<<<< HEAD
-=======
 .divider,
 h2,
 h5 {
   font-family: Helvetica;
 }
->>>>>>> fix
