@@ -1,9 +1,20 @@
-* 7fbeddd foofer design
-* 1b452fc cambio en img bg
-* 8c3187a client done
-* aa88a14 gallery fb links
-* 9a8abb3 galeria done
-* 122675e Deleted appointment and blog
+* 3aa7fc3 getting new pages
+* 1ffb128 fixing services
+* caac52c getting new pages
+* b291ffd fixing services
+* d0bbef3 getting new pages
+*   63b88e4 fixLinks blue
+|\  
+| * 414ded3 fix img size
+| * 0d677a2 img footer y copyRights
+| * 7fbeddd foofer design
+| * 1b452fc cambio en img bg
+| * 8c3187a client done
+| * aa88a14 gallery fb links
+| * 9a8abb3 galeria done
+| * 122675e Deleted appointment and blog
+* | 9175721 telefonos y dir
+|/  
 *   5f2a594 Merge branch 'counterBar' into menu
 |\  
 | * 7098323 funBar
