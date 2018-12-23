@@ -11,7 +11,30 @@
   margin-bottom: 2em;
   max-width: 100%;
 }
+<<<<<<< HEAD
 .linkColor {
+=======
+.divider,
+h2,
+h5 {
+  font-family: Helvetica;
+}
+#doctors .img-fullwidth {
+  height: 500px;
+}
+.footerContact {
+  color: #fff;
+}
+.footerContact #whiteTxt {
+  color: #fff;
+}
+#galleryIcons {
+  margin-right: auto;
+  margin-left: auto;
+  position: color #1983c3;
+}
+#linkColor {
+>>>>>>> fix
   color: #1983c3;
 }
 #logoGB {
@@ -32,9 +55,23 @@
   padding-right: 0px;
   padding-left: 0px;
 }
+<<<<<<< HEAD
+=======
+.thumb img {
+  height: 150px;
+}
+>>>>>>> fix
 .whatsapp {
   display: inline;
   margin-top: 1em;
   text-align: right;
   width: 100%;
 }
+<<<<<<< HEAD
+=======
+.divider,
+h2,
+h5 {
+  font-family: Helvetica;
+}
+>>>>>>> fix
