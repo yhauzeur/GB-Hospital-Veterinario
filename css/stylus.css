@@ -3,6 +3,12 @@
     display: none;
   }
 }
+#active {
+  background: #1983c3;
+  color: #fff;
+  font-weight: bold;
+  padding: 0.5em;
+}
 .borderRadius {
   border-radius: 10%;
   display: block;
