@@ -17,6 +17,9 @@
   margin-bottom: 2em;
   max-width: 100%;
 }
+.arial {
+  font-family: arial;
+}
 .divider,
 h2,
 h5 {
@@ -39,12 +42,22 @@ h5 {
   margin-left: auto;
   position: color #1983c3;
 }
+#about {
+  margin-top: 3.4em;
+}
 #linkColor {
   color: #1983c3;
 }
 #logoGB {
   max-width: 150px;
   width: 20%;
+}
+.profileSize {
+  min-height: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .section-content .row {
   padding-left: 10px;
