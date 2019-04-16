@@ -3,6 +3,24 @@
     display: none;
   }
 }
+.copyright {
+  color: #fff;
+}
+.copyright a:hover {
+  color: #fff;
+}
+.copyright a:focus {
+  color: #fff;
+}
+.copyright a:visited {
+  color: #fff;
+}
+.footer a {
+  color: #fff;
+}
+.event-details {
+  text-align: justify;
+}
 #active {
   background: #1983c3;
   color: #fff;
