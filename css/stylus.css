@@ -3,6 +3,10 @@
     display: none;
   }
 }
+#blue-txt h2,
+#blue-txt p {
+  color: main-blue;
+}
 .copyright {
   color: #fff;
 }
