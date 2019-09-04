@@ -83,6 +83,7 @@ h5 {
 }
 .section-content .row {
   padding-left: 10px;
+  padding-bottom: 50px;
 }
 .section-content .row .media-left,
 .section-content .row .pull-left {
@@ -108,7 +109,4 @@ h5 {
 h2,
 h5 {
   font-family: Helvetica;
-}
-.owl-stage {
-  padding-bottom: 150px;
 }
